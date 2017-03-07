@@ -1,0 +1,6 @@
+example/*
+*.eps
+*.m
+*.log
+*.mat
+*.dat
